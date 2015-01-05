@@ -1,3 +1,6 @@
 # Base of the Bass Repository
 
-we are in Saigon 2015
+## Our Vision
+We provide No.1 fun party in Saigon.
+
+© 2015 Bass of the Base.
